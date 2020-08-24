@@ -1,0 +1,6 @@
+*.test
+*.out
+vendor/
+.idea
+logs/
+
